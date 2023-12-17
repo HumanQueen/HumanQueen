@@ -33,3 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humanqueen&" alt="humanqueen" /></p>
 
+<h3 align="center">Edited by [Manafix](https://manafix.dev)</h3>
+
