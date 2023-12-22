@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript / Python**
 
-- 📫 How to reach me **Humanqueen@Protonmail.com**
+- 📫 How to reach me **HumanQueen@Protonmail.com**
 
 - ⚡ Fun fact **I want a big Floppa**
 
