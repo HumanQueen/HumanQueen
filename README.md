@@ -32,6 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humanqueen&show_icons=true&locale=en" alt="humanqueen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humanqueen&" alt="humanqueen" /></p>
-
-Edited by [Manafix](<https://manafix.dev>)
-
