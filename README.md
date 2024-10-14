@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript / Python**
 
-- 📫 How to reach me **HumanQueen@Protonmail.com**
+- 📫 How to reach me **contact@humanqueen.fr**
 
 - ⚡ Fun fact **I want a big Floppa**
 
